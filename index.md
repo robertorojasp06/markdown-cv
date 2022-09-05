@@ -3,10 +3,10 @@ layout: cv
 title: Roberto Rojas CV
 ---
 # Roberto Rojas
-Ing. civil eléctrico, Magíster en Ciencias de la Ingeniería, mención elétrica.
+Ing. civil eléctrico, Magíster en Ciencias de la Ingeniería
 
 <div id="email">
-<a href="roberto.rojasp06@gmail.com">roberto.rojasp06@gmail.com</a>
+<p>roberto.rojasp06@gmail.com</p>
 | <a href="https://robertorojasp06.github.io/markdown-cv/">robertorojasp06.github.io</a>
 </div>
 
@@ -22,6 +22,7 @@ Asistente de investigación en <a href="https://scian.cl/scientific-image-analys
 
 `2018-2020`
 __Asistente de investigación__. *SCIAN-Lab, Santiago, Chile.*
+
 Implementación de modelos Deep Learning para detección y segmentación de núcleos celulares en imágenes volumétricas obtenidas mediante microscopía Lightsheet. Supervisado por Víctor Castañeda, Ph.D, Fondecyt N°11170475.
 
 `2017-2019`
@@ -70,16 +71,16 @@ Frontend (básico): HTML5/CSS3, JavaScript
 
 Ubuntu (intermedio)
 
-## Control de versiones
+### Control de versiones
 
 git (intermedio)
 
-## Idiomas
+### Idiomas
 
 - Español (nativo)
 - Inglés (intermedio)
 
-### Otros intereses
+## Otros intereses
 
 - Académicos: procesamiento de lenguaje natural en Redes Sociales como Twitter o Instagram.
 - No académicos: música (guitarra acústica, quena, folklore), fútbol, política, historia de Chile y el mundo.
