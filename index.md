@@ -52,7 +52,7 @@ __Científico de datos__. *Instituto de Neurociencia Biomédica (BNI), Santiago,
 Implementación de indicadores para evaluar la calidad de señales ECG obtenidas mediante un dispositivo médico inalámbrico. Supervisado por Pedro Maldonado Arbogast, Ph.D.
 
 
-## Educaci
+## Educación
 
 `2017-2019`
 __Magíster en Ciencias de la Ingeniería__, *Universidad de Chile*
