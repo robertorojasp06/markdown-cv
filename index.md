@@ -70,7 +70,7 @@ __Título de Ingeniero civil eléctrico__, *Universidad de Chile*
 
 ### Desarrollo web
 
-Frontend (básico): HTML5/CSS3, JavaScript
+Backend (básico): Django.
 
 ### Sistema operativo
 
