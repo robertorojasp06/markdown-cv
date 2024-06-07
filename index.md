@@ -31,6 +31,11 @@ Estudio y optimización de compressive sensing aplicado a la síntesis de imáge
 
 ## Otros trabajos
 
+`2023-Presente`
+__Ingeniero Machine Learning__. *SCIAN-Lab, Santiago, Chile.*
+
+Implementación de modelos Deep Learning para localización y segmentación de lesiones tumorales en imágenes de Tomografía Computarizada (CT) provenientes del Hospital Clínico de la Universidad de Chile. Supervisado por Steffen Härtel, Ph.D, Fondef ID23I10337.
+
 `2020-2022`
 __Científico de datos__. *SCIAN-Lab, Santiago, Chile.*
 
