@@ -59,7 +59,7 @@ Implementación de indicadores para evaluar la calidad de señales ECG obtenidas
 ## Publicaciones
 
 `2023`
-__Rojas, R.__, Navarro, C. F., Orellana, G. A., & Castaneda, V. (2023, June). 3D Nuclei Segmentation through Deep Learning. In 2023 IEEE Conference on Artificial Intelligence (CAI) (pp. 309-310). IEEE.
+Rojas, R., Navarro, C. F., Orellana, G. A., & Castaneda, V. (2023, June). 3D Nuclei Segmentation through Deep Learning. In 2023 IEEE Conference on Artificial Intelligence (CAI) (pp. 309-310). IEEE.
 
 
 ## Educación
